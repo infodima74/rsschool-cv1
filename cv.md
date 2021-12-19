@@ -30,6 +30,8 @@ green_bootan.addEventListener("click", scrollToTop)
 #### Education:
 * Belarusian State Agrarian Technical University
      * Energy support of agriculture (electric power industry)
+* Completed the course :Web development for beginners: HTML and CSS
+     * [certificate](https://stepik.org/cert/862315)
 
 
 #### My Experience:
