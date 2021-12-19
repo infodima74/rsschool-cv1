@@ -1,6 +1,6 @@
 ## Junior Resume Developer.
 -------------
-- **_First Name Last Name:_**
+**_First Name Last Name:_**
   Dmitry Perevalov.
 -------------
 - ** _ Contact information: _ ** 
