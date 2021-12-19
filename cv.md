@@ -28,8 +28,8 @@ function scrollToTop() {
 green_bootan.addEventListener("click", scrollToTop)
 ```
 #### Education:
-+ Belarusian State Agrarian Technical University
-     -Energy support of agriculture (electric power industry)
+* Belarusian State Agrarian Technical University
+     * Energy support of agriculture (electric power industry)
 
 
 #### My Experience:
