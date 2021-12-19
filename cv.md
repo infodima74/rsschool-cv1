@@ -1,7 +1,8 @@
 ## Junior Resume Developer || Dmitry Perevalov.
 
 #### Contact information:
-- email:-infodima74@gmail.com;-infodima2008@rambler.ru (reserve);
+- email:-infodima74@gmail.com;
+- infodima2008@rambler.ru (reserve);
  - phone: +375 44 5319731; 
  - address: Zhlobin, Belarus; st. Field (Gomel region);
 
@@ -26,10 +27,9 @@ function scrollToTop() {
 }
 green_bootan.addEventListener("click", scrollToTop)
 ```
-
-#### My English:
-
-I study English in parallel with the layout.
+#### Education:
++ Belarusian State Agrarian Technical University
+  -Energy support of agriculture (electric power industry)
 
 
 #### My Experience:
@@ -37,5 +37,12 @@ I study English in parallel with the layout.
 | Year      | Position       | Company                       |
 | --------- | -------------- | ----------------------------- |
 | 2013-2021 | electrician    | BMZ(Belarus)                  |
+
+#### My English:
+
+I study English in parallel with the layout.
+
+
+
 
 
