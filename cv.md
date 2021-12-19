@@ -1,5 +1,5 @@
 ## Junior Resume Developer || Dmitry Perevalov.
--------------
+
 #### Contact information:
 - email:-infodima74@gmail.com;-infodima2008@rambler.ru (reserve);
  - phone: +375 44 5319731; 
@@ -12,6 +12,18 @@ _Here are the skills that already exist and are still learning. And which I also
 
 **HTML/CSS | JS | React&Redux | Node JS | Bootstrap5 | Flex/Grid | SCSS/Less | Git/Github | Photoshop/Figma | React Native | Webpack/Gulp**
 
+#### Code examples
+```var green_bootan = document.getElementById("green_bootan")
+var rootElement = document.documentElement
+
+function scrollToTop() {
+  // Scroll to top logic
+  rootElement.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  })
+}
+green_bootan.addEventListener("click", scrollToTop)```
 
 #### My English:
 
@@ -22,6 +34,6 @@ I study English in parallel with the layout.
 
 | Year      | Position       | Company                       |
 | --------- | -------------- | ----------------------------- |
-| 2013-2021 | electrician    | BMZ(Belarus)             |
+| 2013-2021 | electrician    | BMZ(Belarus)                  |
 
 
