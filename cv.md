@@ -46,6 +46,8 @@ green_bootan.addEventListener("click", scrollToTop)
 #### My English:
 
 I study English in parallel with the layout.
+
+
 [![RS School](//https://rs.school/images/rs_school.svg/150x100)](https://rs.school/)
 
 
