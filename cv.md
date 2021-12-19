@@ -1,12 +1,12 @@
 ## Junior Resume Developer || Dmitry Perevalov.
 
 #### Contact information:
+
 - email:-infodima74@gmail.com;
 - infodima2008@rambler.ru (reserve);
  - phone: +375 44 5319731; 
  - address: Zhlobin, Belarus; st. Field (Gomel region);
  - nickname on the rs school discord server:infodima74;
-
 
 #### My Skills:
 
@@ -15,6 +15,7 @@ _Here are the skills that already exist and are still learning. And which I also
 **HTML/CSS | JS | React&Redux | Node JS | Bootstrap5 | Flex/Grid | SCSS/Less | Git/Github | Photoshop/Figma | React Native | Webpack/Gulp**
 
 #### Code examples:
+
 ```js
 var green_bootan = document.getElementById("green_bootan")
 var rootElement = document.documentElement
@@ -34,7 +35,9 @@ green_bootan.addEventListener("click", scrollToTop)
      * [uber](https://github.com/infodima74/uber)
      * [layout](https://github.com/infodima74/layout-layout)
      * [wildlife](https://github.com/infodima74/wildlife)
+
 #### Education:
+
 * Belarusian State Agrarian Technical University
      * Energy support of agriculture (electric power industry)
 * Completed the course :Web development for beginners: HTML and CSS
