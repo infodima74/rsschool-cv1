@@ -12,8 +12,9 @@ _Here are the skills that already exist and are still learning. And which I also
 
 **HTML/CSS | JS | React&Redux | Node JS | Bootstrap5 | Flex/Grid | SCSS/Less | Git/Github | Photoshop/Figma | React Native | Webpack/Gulp**
 
-#### Code examples
-```var green_bootan = document.getElementById("green_bootan")
+#### Code examples:
+```js
+var green_bootan = document.getElementById("green_bootan")
 var rootElement = document.documentElement
 
 function scrollToTop() {
