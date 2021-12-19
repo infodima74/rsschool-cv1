@@ -24,7 +24,8 @@ function scrollToTop() {
     behavior: "smooth"
   })
 }
-green_bootan.addEventListener("click", scrollToTop)```
+green_bootan.addEventListener("click", scrollToTop)
+```
 
 #### My English:
 
