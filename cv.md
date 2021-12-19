@@ -16,3 +16,18 @@ _Here are the skills that already exist and are still learning. And which I also
 #### My English:
 
 I study English in parallel with the layout.
+#
+
+#### My Experience:
+
+| Year      | Position       | Company                       |
+| --------- | -------------- | ----------------------------- |
+| 2013-2021 | electrician    | BMZ(Belarus)             |
+
+
+#
+#### My Hobbies:
+
+- Movies
+- Books
+- Studying
